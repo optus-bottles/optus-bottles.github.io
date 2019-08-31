@@ -1,6 +1,6 @@
 /*
 
-Template:  Webster - Responsive Multi-purpose HTML5 Template
+Template:  Optus - Your Companion In Staying Fresh
 Author: potenzaglobalsolutions.com
 Design and Developed by: potenzaglobalsolutions.com
 
