@@ -9,7 +9,7 @@ NOTE: This file contains Page Title CSS.
 /*************************************
        page-title
 **************************************/
-.page-title { display: block; padding-top:250px; padding-bottom: 100px; position: relative; }
+.page-title { display: block; padding-top:180px; padding-bottom: 50px; position: relative; }
 .page-title.bg-overlay-black-60:before  { z-index: 0; }
 .page-title .container { height: 100%; position: relative; }
 .page-title span { text-transform: capitalize; }
@@ -52,7 +52,7 @@ ul.page-breadcrumb li a:hover {  color: #84ba3f; }
 .page-title.pattern ul.page-breadcrumb li span { color: #84ba3f; }
 
 /*light-overlay*/
-.page-title.light-overlay { position: relative; padding-top: 360px; }
+.page-title.light-overlay { position: relative; padding-top: 180px; }
 .page-title.light-overlay:before { position: absolute; width: 100%; height: 100%; bottom: 0; left: 0; right: 0; content: ""; background: url(../../images/white-overlay.png);  background-repeat: repeat-x; background-position: bottom; } 
 .page-title.light-overlay h1, .page-title.light-overlay p { color: #323232; }
 .page-title.light-overlay ul.page-breadcrumb li a { color: #323232; }

@@ -1067,3 +1067,11 @@ $( document ).ready(function() {
 $(document).on('click','a.frame-close', function(e){
   $('.header-preview').slideUp();
 });
+$(document).ready( function() {
+    
+    $(".menu-links a").each(function() {
+        if ((window.location.pathname.indexOf($(this).attr('href').replace(/[^a-zA-Z ]/, ""))) > -1) {
+            $(this).addClass('activeMenuItem');
+        }
+    });
+});
