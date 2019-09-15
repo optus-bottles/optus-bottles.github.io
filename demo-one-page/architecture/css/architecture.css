@@ -21,7 +21,7 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Roboto', sans-serif; color: #363636; marg
 /*architecture-portfolio*/
 .architecture-portfolio .isotope-filters { margin: 0; text-align: right; display: inline-block; margin-bottom: 00px; margin-top: 10px;}
 .architecture-portfolio .isotope-filters button { border:0; padding: 6.5px 5px; }
-.architecture-portfolio .isotope-filters  button.active, .architecture-portfolio .isotope-filters  button:hover { background: transparent; color: #84ba3f; }
+.architecture-portfolio .isotope-filters  button.active, .architecture-portfolio .isotope-filters  button:hover { background: transparent; color: orange; }
 
 /*contact-us*/
 #contact-us .addresss-info li, #contact-us .addresss-info p, #contact-us .addresss-info i { color: #ffffff; }

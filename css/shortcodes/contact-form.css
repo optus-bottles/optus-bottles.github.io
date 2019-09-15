@@ -61,6 +61,6 @@ textarea.form-control { resize: vertical; }
 .newsletter-box.gray-bg .form-control { background: #ffffff; }
 .newsletter-box.newsletter-border { padding: 30px; border:2px solid #eeeeee; border-radius: 3px; }
 .newsletter .button.large { padding: 11px 20px; }
-.custom-checkbox .custom-control-input:checked~.custom-control-label::before { background-color: #84ba3f; box-shadow: none; }
+.custom-checkbox .custom-control-input:checked~.custom-control-label::before { background-color: orange; box-shadow: none; }
 .custom-control-label::before { box-shadow: none; outline: none; }
 .custom-control-input:focus~.custom-control-label::before { outline: 0 !important; box-shadow: none; border: 0;  }

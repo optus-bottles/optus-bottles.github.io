@@ -246,7 +246,7 @@ h6 {
 				color: #353535;
 				font-weight: bold;
 				&:hover {
-					color: #84ba3f;
+					color: orange;
 				}
 			}
 		}
@@ -267,7 +267,7 @@ h6 {
 			display: inline-block;
 			ins {
 				text-decoration: none;
-				color: #84ba3f;
+				color: orange;
 				font-size: 16px;
 				font-weight: bold;
 			}
@@ -297,7 +297,7 @@ h6 {
 				background: transparent;
 				border-color: #e0e0e0;
 				&:hover {
-					color: #84ba3f;
+					color: orange;
 				}
 			}
 			&:first-child {
@@ -342,7 +342,7 @@ h6 {
 						font-size: 14px;
 						padding-right: 5px;
 						&:hover {
-							color: #84ba3f;
+							color: orange;
 						}
 					}
 				}

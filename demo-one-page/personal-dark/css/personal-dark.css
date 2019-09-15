@@ -31,5 +31,5 @@ h1, h2, h3, h4, h5, h6 { font-family: 'Rancho', sans-serif; font-weight: normal;
 .blog-box.blog-2 .blog-info.dark-bg .button.icon-color:hover { color: #ffffff;   }
 
 .dark-theme-bg .addresss-info li, .dark-theme-bg .addresss-info p { color: #ffffff; }
-.dark-theme-bg .addresss-info i { color: #84ba3f; }
+.dark-theme-bg .addresss-info i { color: orange; }
 #services.dark-theme-bg .feature-info h5 { font-size: 22px; }
